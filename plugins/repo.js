@@ -6,7 +6,7 @@ const repo = async (m, gss) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(" ")[0].toLowerCase() : "";
 
   if (["repo", "sc", "script", "info"].includes(cmd)) {
-    const githubRepoURL = "https://github.com/inconnuboyxtech/INCONNU-XD";
+    const githubRepoURL = "https://github.com/INCONNNU-BOY/INCONNU-XD-V1";
 
     try {
       // Extract username and repo name from the URL
