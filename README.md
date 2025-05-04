@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/inconnuboyxtech">
+  <a href="https://github.com/INCONNU-BOY">
     <img title="Author" src="https://img.shields.io/badge/Author-INCONNU%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
@@ -50,7 +50,7 @@
 ### 🚀 Fork This Repo
 
 <p align="center">
-  <a href="https://github.com/inconnuboyxtech/INCONNU-XD/fork">
+  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1/fork">
     <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -60,10 +60,10 @@
 ### ☁️ Deploy To Platforms
 
 <p align="center">
-  <a href="https://replit.com/github/inconnuboyxtech/INCONNU-XD">
+  <a href="https://replit.com/github/INCONNU-BOY/INCONNU-XD-V1">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/inconnuboyxtech/INCONNU-XD">
+  <a href="https://railway.app/new/template?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">
@@ -72,13 +72,13 @@
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/inconnuboyxtech/INCONNU-XD/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/INCONNU-XD-V1/INCONNU-XD-V1/tree/main">
     <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=inconnuboyxtech/INCONNU-XD&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=INCONNU-BOY/INCONNU-XD-V1&ports=3000">
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
@@ -88,7 +88,7 @@
 ### 📦 Download the Bot File
 
 <p align="center">
-  <a href="https://github.com/inconnuboyxtech/INCONNU-XD/archive/refs/heads/main.zip">
+  <a href="https://github.com/INCONNU-BOY/INCONNU-XD-V1/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
