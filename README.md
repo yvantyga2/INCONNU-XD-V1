@@ -43,7 +43,7 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID
-[![INCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-v1.onrender.com/pair)
+[![INCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-v1.onrender.com/)
 
 ---
 
