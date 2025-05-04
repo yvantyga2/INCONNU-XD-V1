@@ -129,7 +129,7 @@ async function start() {
 *⚡ Your Prefix:* = *${prefix}*
 ═══════════════════
 
-⌛ REPO : https://github.com/inconnuboyxtech/INCONNU-XD
+⌛ REPO : https://github.com/INCONNU-BOY/INCONNU-XD-V1
 
 ╚══════════════════╝
        ©INCONNU BOY TECH`
