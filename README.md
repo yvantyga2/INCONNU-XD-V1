@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&height=200&lines=INCONNU-XD-V1+BOT+BY+INCONNU+BOY+TECH+⚡+2025" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&height=200&lines=INCONNU-XD-V1+BOT+BY+INCONNU+BOY+TECH+⚡+2025" alt="Typing SVG" />
 </p>
 
 <h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY INCONNU BOY</h1>
