@@ -77,7 +77,7 @@ const menu = async (m, Matrix) => {
 ┃★│ Mode : *${mode}*
 ┃★│ Platform : *${os.platform()}*
 ┃★│ Prefix : [${prefix}]
-┃★│ Version : *3.1.0*
+┃★│ Version : *1.0.0*
 ┃★╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
