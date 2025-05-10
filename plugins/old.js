@@ -68,7 +68,7 @@ const menu = async (m, Matrix) => {
 
   if (validCommands.includes(cmd)) {
     const str = `
-╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
+╭━━〔 *${config.BOT_NAME}* 〕━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
 ┃★│ User : *${m.pushName}*
@@ -103,7 +103,7 @@ const menu = async (m, Matrix) => {
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 
-╭━━〔 *Converter Menu* 〕━━┈⊷
+╭━━〔 *Converter Menu* 〕━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• attp
 ┃◈┃• attp2
