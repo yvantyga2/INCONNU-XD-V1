@@ -1,6 +1,4 @@
 
-
-
 // config.js
 const fs = require("fs");
 require("dotenv").config();
@@ -26,7 +24,7 @@ const config = {
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "INCONNU-XD",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/230q0c.jpg",
-  DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO INCONNU-XD",
+  DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO INCONNU-XD-V1",
   OWNER_NAME: process.env.OWNER_NAME || "INCONNU-XD",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "554488138425",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
