@@ -45,6 +45,12 @@
 ### 🔑 Get Your Session ID
 [![INCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-site-session.onrender.com)
 
+### 🔑 PAIR CODE
+[![INCONNU XD PAIR CODE ](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-site-session.onrender.com/pair)
+
+### 🔑 QR CODE
+[![INCONNU XD QR CODE ](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-site-session.onrender.com/qr)
+
 ---
 
 ### 🚀 Fork This Repo
